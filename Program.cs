@@ -6,6 +6,7 @@
         {
             Console.WriteLine("welcome to employee wage problem");
             employeecheck.CheckAttendance();
+            employeewage.calwage();
         }
     }
 }
